@@ -9,5 +9,5 @@ import android.widget.Toast
  */
 
 fun Context.module2Toast(){
-    Toast.makeText(this, "来自子模块2的招呼：你好", Toast.LENGTH_SHORT).show()
+    Toast.makeText(this, "修改来自子模块2的招呼：你好", Toast.LENGTH_SHORT).show()
 }
