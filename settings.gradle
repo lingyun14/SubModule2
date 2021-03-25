@@ -1,2 +1,3 @@
+include ':Moudle2'
 include ':app'
 rootProject.name = "SubModule2"
